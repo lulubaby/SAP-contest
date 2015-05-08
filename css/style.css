@@ -1,0 +1,9 @@
+/* Put your CSS here */
+html, body {
+    margin: 20px;
+}
+
+.contain{
+	width: 600px;
+	height: 600px;
+}
